@@ -18,7 +18,7 @@ Kopiere deine MP3-Dateien in ein Verzeichnis. Z.B.: 01Album / 01xxx.mp3. Verzeic
 ## Hardware
 Die Hardware für den ToniPlayer:
 
-[ ] ESP32 Dev Board mit Shield
++ ESP32 Dev Board mit Shield
 
 RFID-RC522 Kartenleser
 
