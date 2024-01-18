@@ -136,11 +136,15 @@ Serieller Monitor
 
 Access Point
 
-![Access Point]( )
+![Access Point](https://github.com/frankyhub/Toni-Player/blob/main/pic/ToniPlayer01.png)
+
 
 
 ToniPlayer WEB-Interface
 
+![ToniPlayer WEB-Interface1]( )
+
+![ToniPlayer WEB-Interface2]( )
 
 
 
