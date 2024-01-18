@@ -119,25 +119,24 @@ Download:
 3D-Druck Dateien ToniPlayer
 Lasercutter Datei ToniPlayer
 
+--- 
 
-Gehäuse
+## Gehäuse
 
 ![Gehäuse](https://github.com/frankyhub/Toni-Player/blob/main/pic/Gehaeuse.png)
 
+---
 
+## Inbetriebnahme
 
-
-
-
-Inbetriebnahme
 Serieller Monitor
 
-
+![Serieller Monitor](https://github.com/frankyhub/Toni-Player/blob/main/pic/TPSeriellerMonitor2.png)
 
 
 Access Point
 
-
+![Access Point]( )
 
 
 ToniPlayer WEB-Interface
