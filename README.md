@@ -46,7 +46,9 @@ Verdrahtung:
 + GPIO18 -> SCK
 + GPIO5 -> SDA
 
+
 ![Verdrahtung](https://github.com/frankyhub/Toni-Player/blob/main/pic/Verdrahtung.png)
+
 
 ![Die Ladeschaltung](https://github.com/frankyhub/Toni-Player/blob/main/pic/Ladeschaltung.png)
 
@@ -92,7 +94,7 @@ GPIO39 Lautstärkeregler
 
 ---
 
-##Power
+## Power
 
 + Akku > Step-Up-Modul und Laderegler
 + Step up Modul > Verstärker
@@ -119,6 +121,8 @@ Lasercutter Datei ToniPlayer
 
 
 Gehäuse
+
+![Gehäuse](https://github.com/frankyhub/Toni-Player/blob/main/pic/Gehaeuse.png)
 
 
 
