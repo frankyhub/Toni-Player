@@ -96,9 +96,9 @@ Software
 Die Software für den ToniPlayer:
 
 Bibliotheken:
-RFID-Bibliothek (https://github.com/miguelbalboa/rfid)
-ESP8266Audio (https://github.com/earlephilhower/ESP8266Audio) Diese Bibliothek kann viel mehr als nur MP3-Dekodierung!
-ESP8266Audio ESP8266_Spiram (https://github.com/Gianbacchio/ESP8266_Spiram
+[RFID-Bibliothek](https://github.com/miguelbalboa/rfid)
+[ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio) Diese Bibliothek kann viel mehr als nur MP3-Dekodierung!
+[ESP8266Audio ESP8266_Spiram](https://github.com/Gianbacchio/ESP8266_Spiram
 Download:
 ToniPlayer Software
 Gehäuse
