@@ -10,9 +10,7 @@ Kopiere deine MP3-Dateien in ein Verzeichnis. Z.B.: 01Album / 01xxx.mp3. Verzeic
 
 
 
-Der ToniPlayer
-
-!(https://github.com/frankyhub/Toni-Player/blob/main/pic/ToniPlayer.png)
+![Der ToniPlayer](https://github.com/frankyhub/Toni-Player/blob/main/pic/ToniPlayer.png)
 
 
 
