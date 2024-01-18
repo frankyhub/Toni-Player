@@ -139,12 +139,11 @@ Access Point
 ![Access Point](https://github.com/frankyhub/Toni-Player/blob/main/pic/ToniPlayer01.png)
 
 
-
 ToniPlayer WEB-Interface
 
-![ToniPlayer WEB-Interface1]( )
+![ToniPlayer WEB-Interface1](https://github.com/frankyhub/Toni-Player/blob/main/pic/ToniPlayer10.png)
 
-![ToniPlayer WEB-Interface2]( )
+![ToniPlayer WEB-Interface2](https://github.com/frankyhub/Toni-Player/blob/main/pic/ToniPlayer11.png)
 
 
 
