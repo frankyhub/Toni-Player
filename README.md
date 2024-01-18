@@ -32,7 +32,7 @@ Die Hardware für den ToniPlayer:
 
 ---
 
-##Aufbau und Montage
+## Aufbau und Montage
 
 Verdrahtung:
 
