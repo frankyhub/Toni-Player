@@ -19,86 +19,62 @@ Kopiere deine MP3-Dateien in ein Verzeichnis. Z.B.: 01Album / 01xxx.mp3. Verzeic
 Die Hardware für den ToniPlayer:
 
 + ESP32 Dev Board mit Shield
++ RFID-RC522 Kartenleser
++ SD-Kartenleser (SD-Karte: 32GB 90MB/sec)
++ NF-Verstärker mit Lautsprecher
++ 3,7V Akku 18650 mit Laderegler, Akku-Case (3D-Druck)
++ Step-Up-Modul (3,7V>5V)
++ 4 LEDs, gelb, grün, 2x rot
++ 3 Taster (vor, zurück, Reset)
++ Gehäuse (Lasercutter)
++ Abstandshalter (3D-Druck)
++ Verbrauchs- und Hilfsmaterial
 
-RFID-RC522 Kartenleser
+---
 
-SD-Kartenleser (SD-Karte: 32GB 90MB/sec)
-
-NF-Verstärker mit Lautsprecher
-
-3,7V Akku 18650 mit Laderegler, Akku-Case (3D-Druck)
-
-Step-Up-Modul (3,7V>5V)
-
-4 LEDs, gelb, grün, 2x rot
-
-3 Taster (vor, zurück, Reset)
-
-Gehäuse (Lasercutter)
-
-Abstandshalter (3D-Druck)
-
-Verbrauchs- und Hilfsmaterial
-
-Aufbau und Montage
-
+##Aufbau und Montage
 
 Verdrahtung:
 
-ESP32 > RFID-RC522
++ ESP32 > RFID-RC522
++ 3.3V -> 3.3V
++ GPIO4 -> RST
++ GND -> GND
++ N/C -> IRQ
++ GPIO19 -> MISO
++ GPIO23 -> MOSI
++ GPIO18 -> SCK
++ GPIO5 -> SDA
 
-3.3V -> 3.3V
+---
 
-GPIO4 -> RST
++ ESP32 > SD-Card
++ 5V -> 5V
++ GND -> GND
++ GPIO13 -> MISO
++ GPIO14 -> CLK
++ GPIO27 -> MOSI
++ GPIO15 -> CS
 
-GND -> GND
-
-N/C -> IRQ
-
-GPIO19 -> MISO
-
-GPIO23 -> MOSI
-
-GPIO18 -> SCK
-
-GPIO5 -> SDA
-
-
-ESP32 > SD-Card
-
-5V -> 5V
-
-GND -> GND
-
-GPIO13 -> MISO
-
-GPIO14 -> CLK
-
-GPIO27 -> MOSI
-
-GPIO15 -> CS
-
-
+---
 
 ESP32 > Audio
 
 GPIO22 -> in
-
 GND -> GND
-
 GPIO39 -> Gnd (max volume) oder VCC/2 (normal volume)
-
 GPIO36 -> 3.3V
+
+---
 
 Verstärker mit Lautsprecher
 
-
-ESP32 > Anzeige
-4 Status-LEDs (gemeinsame Kathode, 1000Ohm Vorwiderstände):
-GPIO21 -> Gelb (leuchtet, wenn WIFI aktiviert ist, blinkt bei WIFI-Aktivität)
-GPIO17 -> Grün (leuchtet während des Spielens, blinkt im Leerlauf)
-GPIO16 -> Rot (zeigt Fehlerzustände an und Akku laden)
-GPIO12 -> Rot (zeigt Power an)
++ ESP32 > Anzeige
++ 4 Status-LEDs (gemeinsame Kathode, 1000Ohm Vorwiderstände):
++ GPIO21 -> Gelb (leuchtet, wenn WIFI aktiviert ist, blinkt bei WIFI-Aktivität)
++ GPIO17 -> Grün (leuchtet während des Spielens, blinkt im Leerlauf)
++ GPIO16 -> Rot (zeigt Fehlerzustände an und Akku laden)
++ GPIO12 -> Rot (zeigt Power an)
 
 
 ESP32 Verdrahtung
@@ -107,26 +83,27 @@ ESP32 Verdrahtung
 
 Die Ladeschaltung
 
+---
 
-
-Steuerung
+## Steuerung
 
 Zwei Tasten
 GPIO32 und GPIO33: Tasten, Verbindung zur Masse; Vorheriger / Nächster Titel (kurzes Drücken) - schnelles Vorspulen / Zurückspulen (langes Drücken)
 Reset-Taste > ESP32 Reset
 GPIO39 Lautstärkeregler
 
+---
 
-Power
+##Power
 
-Akku > Step-Up-Modul und Laderegler
-Step up Modul > Verstärker
-GPIO36 -> Angeschlossen an die Batteriespannung zur Erfassung des Batteriezustands, Verbindung zu 3,3 V
-GPIO12 -> High, wenn die Stromversorgung eingeschaltet ist
++ Akku > Step-Up-Modul und Laderegler
++ Step up Modul > Verstärker
++ GPIO36 -> Angeschlossen an die Batteriespannung zur Erfassung des Batteriezustands, Verbindung zu 3,3 V
++ GPIO12 -> High, wenn die Stromversorgung eingeschaltet ist
 
+---
 
-Software
-Die Software für den ToniPlayer:
+## Software
 
 Bibliotheken:
 [RFID-Bibliothek](https://github.com/miguelbalboa/rfid)
