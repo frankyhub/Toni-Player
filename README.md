@@ -48,7 +48,7 @@ Verdrahtung:
 
 ![Verdrahtung](https://github.com/frankyhub/Toni-Player/blob/main/pic/Verdrahtung.png)
 
-![Die Ladeschaltung]( )
+![Die Ladeschaltung](https://github.com/frankyhub/Toni-Player/blob/main/pic/Ladeschaltung.png)
 
 ---
 
