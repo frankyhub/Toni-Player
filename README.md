@@ -46,6 +46,10 @@ Verdrahtung:
 + GPIO18 -> SCK
 + GPIO5 -> SDA
 
+![Verdrahtung](https://github.com/frankyhub/Toni-Player/blob/main/pic/Verdrahtung.png)
+
+![Die Ladeschaltung]( )
+
 ---
 
 + ESP32 > SD-Card
@@ -76,12 +80,6 @@ Verstärker mit Lautsprecher
 + GPIO16 -> Rot (zeigt Fehlerzustände an und Akku laden)
 + GPIO12 -> Rot (zeigt Power an)
 
-
-ESP32 Verdrahtung
-
-
-
-Die Ladeschaltung
 
 ---
 
