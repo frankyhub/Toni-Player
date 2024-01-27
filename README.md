@@ -12,7 +12,7 @@ Kopiere deine MP3-Dateien in ein Verzeichnis. Z.B.: 01Album / 01xxx.mp3. Verzeic
 
 
 
-![Der ToniPlayer](https://github.com/frankyhub/Toni-Player/blob/main/pic/ToniPlayer.png)
+![Der ToniPlayer](/pic/ToniPlayer.png)
 
 
 ---
@@ -49,10 +49,10 @@ Verdrahtung:
 + GPIO5 -> SDA
 
 
-![Verdrahtung](https://github.com/frankyhub/Toni-Player/blob/main/pic/Verdrahtung.png)
+![Verdrahtung](/pic/Verdrahtung.png)
 
 
-![Die Ladeschaltung](https://github.com/frankyhub/Toni-Player/blob/main/pic/Ladeschaltung.png)
+![Die Ladeschaltung](/pic/Ladeschaltung.png)
 
 ---
 
@@ -125,7 +125,7 @@ Lasercutter Datei ToniPlayer
 
 ## Gehäuse
 
-![Gehäuse](https://github.com/frankyhub/Toni-Player/blob/main/pic/Gehaeuse.png)
+![Gehäuse](/pic/Gehaeuse.png)
 
 ---
 
@@ -133,19 +133,19 @@ Lasercutter Datei ToniPlayer
 
 Serieller Monitor
 
-![Serieller Monitor](https://github.com/frankyhub/Toni-Player/blob/main/pic/TPSeriellerMonitor2.png)
+![Serieller Monitor](/pic/TPSeriellerMonitor2.png)
 
 
 Access Point
 
-![Access Point](https://github.com/frankyhub/Toni-Player/blob/main/pic/ToniPlayer01.png)
+![Access Point](/pic/ToniPlayer01.png)
 
 
 ToniPlayer WEB-Interface
 
-![ToniPlayer WEB-Interface1](https://github.com/frankyhub/Toni-Player/blob/main/pic/ToniPlayer10.png)
+![ToniPlayer WEB-Interface1](/pic/ToniPlayer10.png)
 
-![ToniPlayer WEB-Interface2](https://github.com/frankyhub/Toni-Player/blob/main/pic/ToniPlayer11.png)
+![ToniPlayer WEB-Interface2](/pic/ToniPlayer11.png)
 
 
 
