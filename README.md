@@ -2,6 +2,7 @@
 
 # Toni-Player
 
+## Story
 Dieses Projekt beschreibt einen einfach zu bedienenden MP3-Player für Kinder. Die wesentlichen Komponenten sind ein ESP32, ein RFID-Modul, ein SD-Kartenleser, ein Verstärker und ein Lautsprecher. Optional sind noch ein Akku mit Laderegler und ein Step-Up-Modul möglich. Die Grundidee des ToniPlayers besteht darin, dass Tracks einfach ausgewählt werden, indem ein RFID-getaggtes Objekt auf dem Player platziert wird, wodurch ein physischer Schlüssel zu einer Datei oder einen Ordner erstellt wird.
 
 ## Grundbedienung
