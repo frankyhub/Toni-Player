@@ -1,5 +1,16 @@
 <a name="oben"></a>
 
+<div align="center">
+
+|[:skull:ISSUE](https://github.com/frankyhub/Toni-Player/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/Toni-Player/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/Toni-Player/wiki)||
+|--|--|--|--|
+| | | | |
+|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2045-blue)|<a href="https://github.com/frankyhub/Toni-Player/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Toni-Player)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Toni-Player)|<a href="https://github.com/frankyhub/Toni-Player/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Toni-Player)|<a href="https://github.com/frankyhub/Toni-Player/releases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Toni-Player)|
+|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Toni-Player)| <a href="https://github.com/frankyhub/Toni-Player/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Toni-Player/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
+</div>
+
+
+
 # Toni-Player
 
 ## Story
