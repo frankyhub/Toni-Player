@@ -5,19 +5,17 @@
 |[:skull:ISSUE](https://github.com/frankyhub/Toni-Player/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/Toni-Player/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/Toni-Player/wiki)||
 |--|--|--|--|
 | | | | |
-<a href="https://github.com/frankyhub/Toni-Player/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Toni-Player)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Toni-Player)|<a href="https://github.com/frankyhub/Toni-Player/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Toni-Player)|<a href="https://github.com/frankyhub/Toni-Player/6eleases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Toni-Player)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2045-blue)|
+<a href="https://github.com/frankyhub/Toni-Player/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Toni-Player)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Toni-Player)|<a href="https://github.com/frankyhub/Toni-Player/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Toni-Player)|<a href="https://github.com/frankyhub/Toni-Player/6eleases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Toni-Player)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%20046-blue)|
 |![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Toni-Player)| <a href="https://github.com/frankyhub/Toni-Player/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Toni-Player/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)||
 
-</div>
+<img src="pic/ToniPlayer.png" width="500"> 
+<br> <br>
 
-# Toni-Player
+</div>
 
 ## Story
 Dieses Projekt beschreibt einen einfach zu bedienenden MP3-Player für Kinder. Die wesentlichen Komponenten sind ein ESP32, ein RFID-Modul, ein SD-Kartenleser, ein Verstärker und ein Lautsprecher. Optional sind noch ein Akku mit Laderegler und ein Step-Up-Modul möglich. Die Grundidee des ToniPlayers besteht darin, dass Tracks einfach ausgewählt werden, indem ein RFID-getaggtes Objekt auf dem Player platziert wird, wodurch ein physischer Schlüssel zu einer Datei oder einen Ordner erstellt wird.
 
-
-<img src="pic/ToniPlayer.png" width="500"> 
-<br> <br>
 
 
 ## Grundbedienung
